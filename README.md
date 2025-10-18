@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is MD Tahsin Islam Chowdhury
 #### Web Devloper
-![Web Devloper](https://github.com/mdtahsinislam/mdtahsinislam/blob/974175c84e7290b843bb76a262727ef7803b0a14/gitbanner.jpg?raw=true)
+![Web Devloper](https://github.com/mdtahsinislam/mdtahsinislam/blob/main/git.png)
 
 I am a passionate Frontend developer and comfortable in backend with Nodejs , Expressjs , mongdb . 
 
