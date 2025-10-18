@@ -4,6 +4,13 @@
 
 I am a passionate Frontend developer and comfortable in backend with Nodejs , Expressjs , mongdb . 
 
+## 🧑‍💻 Coding Vibes
+<div align="center" style="min-height:150px; width:auto;">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="480" alt="Coding in action"/>
+</div>
+
+
+
 
 
 ## 🧠 Skills
