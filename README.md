@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**mdtahsinislam/mdtahsinislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 👨‍💻 More about me : https://protfoliow-eta.vercel.app
 - ⭐ My specialty is I can learn anything fast and make it work
 
--->
+
