@@ -24,6 +24,14 @@ I am a passionate Frontend developer and comfortable in backend with Nodejs , Ex
   <!-- Tailwind CSS -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/>
   &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" style="filter: invert(1);"/>
   &nbsp;&nbsp;
