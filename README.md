@@ -2,7 +2,7 @@
 #### Web Devloper
 ![Web Devloper](https://github.com/mdtahsinislam/mdtahsinislam/blob/8c1d6550ee6aea73fff503b209d36decf51153a0/bg.png)
 
-I am a passionate Frontend developer and comfortable in backend with Nodejs , Expressjs , mongdb . 
+💻 MERN Stack Developer | JavaScript | React | Node.js | Express.js | MongoDB | 🚀 Passionate about building full-stack web applications and growing as a Full Stack Developer. 
 
 ## 🧑‍💻 Coding Vibes
 <div align="center" style="min-height:150px; width:auto;">
