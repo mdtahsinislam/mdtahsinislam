@@ -69,7 +69,7 @@
   <a href="https://www.facebook.com/mdtahsin.tahsin.1481" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/mdtahsinislamchowdhury/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="mailto:mdtahsinislam334@.com" target="_blank">
