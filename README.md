@@ -46,8 +46,19 @@
 <!-- -  I'm currently working on this page. -->
 - 🔭 I'm currently learning Nextjs, TypeScript
 - 💬 Ask me about Web Development
-- 📫 How to reach me: **mdtahsinislam334@gmail.com**
-- 👨‍💻 More about me: **https://protfoliow-eta.vercel.app/**
+
+📫 Reach Me 
+
+- 📱 Phone: **+8801610245487 (WhatsApp)**
+
+- 📧 Email: **mdtahsinislam334@gmail.com**
+
+- 🌐 More about me Portfolio: **https://protfoliow-eta.vercel.app/**
+
+- 💼 LinkedIn: **https://www.linkedin.com/in/mdtahsinislamchowdhury/**
+
+- 🐙 GitHub: **github.com/mdtahsinislam**
+
 - ⭐ My specialty is I can **learn anything fast and make it work**
 
 ## 📱 Find me on
