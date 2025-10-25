@@ -43,8 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
 </p>
 
-- 🔭 I'm currently working on this page.
-- 🌱 I'm currently learning Nextjs, TypeScript
+<!-- -  I'm currently working on this page. -->
+- 🔭 I'm currently learning Nextjs, TypeScript
 - 💬 Ask me about Web Development
 - 📫 How to reach me: **mdtahsinislam334@gmail.com**
 - 👨‍💻 More about me: **https://protfoliow-eta.vercel.app/**
