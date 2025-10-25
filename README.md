@@ -68,9 +68,10 @@
 
 ![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=mdtahsinislam&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ## 🏆 GitHub Trophies ![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=gruvbox&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=gruvbox&no-frame=true)
+ -->
 
 ## 💻 Most Used Languages
 
