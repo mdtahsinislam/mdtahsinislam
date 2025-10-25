@@ -82,6 +82,7 @@
 
 ![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=mdtahsinislam&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=algolia&margin-w=15&margin-h=15)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtahsinislam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
