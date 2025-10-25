@@ -1,17 +1,14 @@
-### Hi  👋, my name is MD Tahsin Islam Chowdhury
-#### Web Devloper
-![Web Devloper](https://github.com/mdtahsinislam/mdtahsinislam/blob/57a0938a5a701c7d46077d20a8637dfb703772aa/heeee.png)
+### Hi 👋, my name is MD Tahsin Islam Chowdhury
+#### Web Developer
 
-💻 MERN Stack Developer | JavaScript | React | Node.js | Express.js | MongoDB | 🚀 Passionate about building full-stack web applications and growing as a Full Stack Developer. 
+![Web Developer](https://github.com/mdtahsinislam/mdtahsinislam/blob/57a0938a5a701c7d46077d20a8637dfb703772aa/heeee.png)
+
+💻 MERN Stack Developer | JavaScript | React | Node.js | Express.js | MongoDB | 🚀 Passionate about building full-stack web applications and growing as a Full Stack Developer.
 
 ## 🧑‍💻 Coding Vibes
 <div align="center" style="min-height:150px; width:auto;">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="480" alt="Coding in action"/>
 </div>
-
-
-
-
 
 ## 🧠 Skills
 
@@ -31,14 +28,14 @@
   <!-- Tailwind CSS -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
+  <img width="12"/>
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" style="filter: invert(1);"/>
   &nbsp;&nbsp;
@@ -46,51 +43,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
 </p>
 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Nextjs , TypeScript 
+- 🔭 I'm currently working on this page.
+- 🌱 I'm currently learning Nextjs, TypeScript
 - 💬 Ask me about Web Development
--  📫 How to reach me **mdtahsinislam334@gmail.com**
-
-- 👨‍💻 More about me **https://protfoliow-eta.vercel.app/**
-
+- 📫 How to reach me: **mdtahsinislam334@gmail.com**
+- 👨‍💻 More about me: **https://protfoliow-eta.vercel.app/**
 - ⭐ My specialty is I can **learn anything fast and make it work**
 
-
-###
-
-<h3 align="left">📱 Find me on</h3>
-
-###
-
-###
+## 📱 Find me on
 
 <div align="left">
   <a href="https://www.facebook.com/mdtahsin.tahsin.1481" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"/>
   </a>
   <a href="https://www.linkedin.com/in/mdtahsinislamchowdhury/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"/>
   </a>
-  <a href="mailto:mdtahsinislam334@.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <a href="mailto:mdtahsinislam334@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/>
   </a>
-  
 </div>
 
-### 
+## 📊 GitHub Stats
 
 ![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=mdtahsinislam&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=algolia&margin-w=15&margin-h=15)
+## 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtahsinislam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mdtahsinislam&theme=tokyonight)
-
-
-
-
