@@ -57,7 +57,7 @@
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/mdtahsinislamchowdhury/**
 
-- 🐙 GitHub: **github.com/mdtahsinislam**
+- 🐙 GitHub: **https://github.com/mdtahsinislam**
 
 - ⭐ My specialty is I can **learn anything fast and make it work**
 
