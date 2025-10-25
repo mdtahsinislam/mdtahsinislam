@@ -3,7 +3,7 @@
 
 ![Web Developer](https://github.com/mdtahsinislam/mdtahsinislam/blob/57a0938a5a701c7d46077d20a8637dfb703772aa/heeee.png)
 
-💻 MERN Stack Developer | JavaScript | React | Node.js | Express.js | MongoDB | 🚀 Passionate about building full-stack web applications and growing as a Full Stack Developer.
+💻I am a MERN Stack Developer Experienced in | JavaScript | React | Node.js | Express.js | MongoDB | Nextjs | TypeScript 🚀 Passionate about building full-stack web applications and growing as a Full Stack Developer.
 
 ## 🧑‍💻 Coding Vibes
 <div align="center" style="min-height:150px; width:auto;">
