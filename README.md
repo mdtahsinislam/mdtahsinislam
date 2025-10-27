@@ -81,13 +81,31 @@
 
 
 <!-- ## 🏆 GitHub Trophies ![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=gruvbox&no-frame=true&margin-w=15)
-![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=gruvbox&no-frame=true)
- -->
+![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=gruvbox&no-frame=true)-->
+
 
 ## 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtahsinislam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.vercel.app/?user=mdtahsinislam&theme=tokyonight)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdtahsinislam&theme=tokyonight)
+
+<!--![GitHub Streak](https://streak-stats.demolab.com/?user=mdtahsinislam&theme=tokyonight)
+
+
+
+## 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=gruvbox&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mdtahsinislam&theme=onedark&no-frame=true&margin-w=15)
+
+## 🔥 GitHub Streak  
+[![GitHub Streak](https://streak-stats.vercel.app/?user=mdtahsinislam&theme=tokyonight)](https://git.io/streak-stats)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdtahsinislam&show_icons=true&theme=radical)
+
+
+-->
+
