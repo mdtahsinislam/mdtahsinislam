@@ -109,4 +109,4 @@
 
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdtahsinislam&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?mdtahsinislam=mdtahsinislam&show_icons=true&theme=radical)
