@@ -109,18 +109,22 @@
 
 -->
 
-<h2 align="center">📊 GitHub Activity</h2>
+name: Generate Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+on:
+  scheduled:
+    - cron: "0 0 * * *" # প্রতিদিন একবার স্বয়ংক্রিয়ভাবে আপডেট হবে
+  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+      # এখানে আপনি সংশ্লিষ্ট অ্যাক্টিভিটি জেনারেটর অ্যাকশন ব্যবহার করতে পারেন 
+      # অথবা কাস্টম স্ক্রিপ্ট দিয়ে SVG জেনারেট করে 'output' ব্রাঞ্চে পুশ করতে পারেন।
 
