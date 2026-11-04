@@ -109,22 +109,3 @@
 
 -->
 
-name: Generate Activity Overview
-
-on:
-  scheduled:
-    - cron: "0 0 * * *" # প্রতিদিন একবার স্বয়ংক্রিয়ভাবে আপডেট হবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      # এখানে আপনি সংশ্লিষ্ট অ্যাক্টিভিটি জেনারেটর অ্যাকশন ব্যবহার করতে পারেন 
-      # অথবা কাস্টম স্ক্রিপ্ট দিয়ে SVG জেনারেট করে 'output' ব্রাঞ্চে পুশ করতে পারেন।
-
