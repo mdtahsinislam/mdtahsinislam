@@ -109,6 +109,4 @@
 
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdtahsinislam/mdtahsinislam/output/activity-overview.svg" />
-</p>
+
